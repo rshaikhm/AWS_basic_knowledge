@@ -3,10 +3,10 @@ AWS region:
     -proximity
     -available service 
     -pricing
-  Availability zone:
+Availability zone:
     - 3av 2min 6max
     - data center
-  point of presense:
+point of presense:
     - edge servers
    
   
